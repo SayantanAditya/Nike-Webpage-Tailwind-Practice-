@@ -9,4 +9,4 @@ function Button({label, iconURL}) {
   )
 }
 
-export default Button
+export default Button;
